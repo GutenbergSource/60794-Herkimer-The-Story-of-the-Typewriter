@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Story of the Typewriter</dc:title>
+      <dc:creator>Herkimer County Historical Society</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2019-11-26</dc:publisher>
+      <dc:date>2019-11-26</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ Scans of this book are available from the Internet Archive (copy 1).
+
+ </dc:rights>
+      <dc:subject>Typewriter -- History</dc:subject>
+      <dc:description>A short history of the typewriter, complete with numerous pictures of early models, produced on the occasion of its 50th birthday in 1923.</dc:description>
+      <dc:identifier>pg:60794</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
